@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string_view": "cpp",
+        "hash_map": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
+    }
+}
